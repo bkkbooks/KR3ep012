@@ -1,0 +1,694 @@
+canonical_identifier: bkk:krp/KR3ep012/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep012/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寓意草
+  identifiers:
+    krp: KR3ep012
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep012.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep012_000-jc.yaml, hash: 'sha256:20a05761fde1546766e54bf156e796604ed5a5aee8c0495951f507bf748bacd0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep012_000-jc.markers.yaml, hash: 'sha256:de9706787d6fcadc35e7594338216519628110152d765dd3820b3a648d051697'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 710
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 645
+  label: 先議病後用藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d4.h1s1
+    span:
+    - body
+    - 645
+    - 1216
+  label: 與門人定議病式
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d5.h1s1
+    span:
+    - body
+    - 1216
+    - 1990
+  label: 論金道賓真陽上脫之症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d6.h1s1
+    span:
+    - body
+    - 1990
+    - 2891
+  label: 金道賓後案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d7.h1s1
+    span:
+    - body
+    - 2891
+    - 5609
+  label: 辨袁仲卿小男死證再生奇驗並詳誨門人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d8.h1s1
+    span:
+    - body
+    - 5609
+    - 6658
+  label: 辨黃長人傷寒疑難危證治驗並詳誨門人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d9.h1s1
+    span:
+    - body
+    - 6658
+    - 7008
+  label: 治金鑑傷寒死證奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d10.h1s1
+    span:
+    - body
+    - 7008
+    - 7353
+  label: 辨徐國禎傷寒疑難急證治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d11.h1s1
+    span:
+    - body
+    - 7353
+    - 7702
+  label: 治錢仲昭傷寒發癍危證奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d12.h1s1
+    span:
+    - body
+    - 7702
+    - 8049
+  label: 治傷寒壞證兩腰僂廢奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d13.h1s1
+    span:
+    - body
+    - 8049
+    - 8730
+  label: 辨黃起潛曙修時氣傷寒治各不同
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d14.h1s1
+    span:
+    - body
+    - 8730
+    - 9445
+  label: 辨王玉原傷寒後餘熱並永定善後要法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d15.h1s1
+    span:
+    - body
+    - 9445
+    - 10143
+  label: 答門人問蔣中尊受病致死之因
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d16.h1s1
+    span:
+    - body
+    - 10143
+    - 10488
+  label: 論內傷轉瘧宜防虛脫並治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d17.h1s1
+    span:
+    - body
+    - 10488
+    - 11384
+  label: 推原陸中尊瘧患病機及善後法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d18.h1s1
+    span:
+    - body
+    - 11384
+    - 12391
+  label: 力爭截瘧成脹臨危救安奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d19.h1s1
+    span:
+    - body
+    - 12391
+    - 13712
+  label: 詳述陸平叔傷寒危證治驗並釋門人之疑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d20.h1s1
+    span:
+    - body
+    - 13712
+    - 14318
+  label: 面議何茂倩令嬡病單腹脹脾虛將絕之候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d21.h1s1
+    span:
+    - body
+    - 14318
+    - 16379
+  label: 辨痢疾種種受證不同隨證治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d22.h1s1
+    span:
+    - body
+    - 16379
+    - 17820
+  label: 面議少司馬李萍槎先生誤治宜用急療之法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d23.h1s1
+    span:
+    - body
+    - 17820
+    - 18526
+  label: 面議陳彥質臨危之證有五可治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d24.h1s1
+    span:
+    - body
+    - 18526
+    - 18859
+  label: 論黃湛侯吐血暴證治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d25.h1s1
+    span:
+    - body
+    - 18859
+    - 19511
+  label: 論聞君求血證兼痰證治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d26.h1s1
+    span:
+    - body
+    - 19511
+    - 20850
+  label: 為顧枚先議失血證治並論病機
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d27.h1s1
+    span:
+    - body
+    - 20850
+    - 21505
+  label: 面論顧季掖乃室奇證治之奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d28.h1s1
+    span:
+    - body
+    - 21505
+    - 22174
+  label: 面論姜宜人奇證與交腸不同治法迥異
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d29.h1s1
+    span:
+    - body
+    - 22174
+    - 22763
+  label: 治陸令儀尊堂肺癰奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d30.h1s1
+    span:
+    - body
+    - 22763
+    - 23412
+  label: 議郭臺尹將成血蠱之病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d31.h1s1
+    span:
+    - body
+    - 23412
+    - 24718
+  label: 答門人問州守錢希聲先生吐血治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d32.h1s1
+    span:
+    - body
+    - 24718
+    - 25367
+  label: 李思萱乃室膈氣危症治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d33.h1s1
+    span:
+    - body
+    - 25367
+    - 25982
+  label: 辨黃咫旭乃室膈氣危症宜用緩治法果驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d34.h1s1
+    span:
+    - body
+    - 25982
+    - 26686
+  label: 面議倪慶雲危症再生治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d35.h1s1
+    span:
+    - body
+    - 26686
+    - 28551
+  label: 論吳聖符單腹脹治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d36.h1s1
+    span:
+    - body
+    - 28551
+    - 29544
+  label: 論吳叔寶無病而得死脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d37.h1s1
+    span:
+    - body
+    - 29544
+    - 30718
+  label: 面論大司馬王岵翁公祖耳鳴用方大意
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d38.h1s1
+    span:
+    - body
+    - 30718
+    - 31701
+  label: 直敘王岵翁公祖病中垂危復安始末
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d39.h1s1
+    span:
+    - body
+    - 31701
+    - 32597
+  label: 直推王岵翁公祖病後再誤貽患
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d40.h1s1
+    span:
+    - body
+    - 32597
+    - 33202
+  label: 直敘立刻救蘇劉筠枝不終其用之故
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d41.h1s1
+    span:
+    - body
+    - 33202
+    - 33863
+  label: 論徐岳生將成痿痹之證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d42.h1s1
+    span:
+    - body
+    - 33863
+    - 34571
+  label: 論江沖寰先生足患治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d43.h1s1
+    span:
+    - body
+    - 34571
+    - 35249
+  label: 論錢太封翁足患不宜用熱藥再誤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d44.h1s1
+    span:
+    - body
+    - 35249
+    - 36469
+  label: 論浦君藝喘病證治之法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d45.h1s1
+    span:
+    - body
+    - 36469
+    - 37044
+  label: 論吳吉長乃室及王氏婦誤藥之治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d46.h1s1
+    span:
+    - body
+    - 37044
+    - 37679
+  label: 辨鼎翁公祖頤養天和宜用之藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d47.h1s1
+    span:
+    - body
+    - 37679
+    - 38343
+  label: 論張受先先生漏證善後之宜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d48.h1s1
+    span:
+    - body
+    - 38343
+    - 40347
+  label: 詳胡太封翁疝證治法並及運會之理剿寇之事
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d49.h1s1
+    span:
+    - body
+    - 40347
+    - 42397
+  label: 詳辯諫議胡老先生痰飲小恙並答明問
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d50.h1s1
+    span:
+    - body
+    - 42397
+    - 43057
+  label: 論顧鳴仲痞塊錮疾根源及治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d51.h1s1
+    span:
+    - body
+    - 43057
+    - 43686
+  label: 袁聚東痞塊危證治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d52.h1s1
+    span:
+    - body
+    - 43686
+    - 46345
+  label: 論楊季蘅風廢之證並答門人四問
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d53.h1s1
+    span:
+    - body
+    - 46345
+    - 46964
+  label: 治葉茂卿小男奇證效驗並詳誨門人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d54.h1s1
+    span:
+    - body
+    - 46964
+    - 47622
+  label: 議沈若茲乃郎腸澼危證並治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d55.h1s1
+    span:
+    - body
+    - 47622
+    - 48305
+  label: 辨治楊季登二女奇證奇驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d56.h1s1
+    span:
+    - body
+    - 48305
+    - 49007
+  label: 直敘顧諟明二郎三郎布痘為宵小所誤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d57.h1s1
+    span:
+    - body
+    - 49007
+    - 49678
+  label: 論劉筠枝長郎失血之證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d58.h1s1
+    span:
+    - body
+    - 49678
+    - 50671
+  label: 論錢小魯嗜酒積熱之證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d59.h1s1
+    span:
+    - body
+    - 50671
+    - 51329
+  label: 面論李繼江痰病奇證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d60.h1s1
+    span:
+    - body
+    - 51329
+    - 51992
+  label: 吳添官乃母厥巔疾及自病真火脫出治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d61.h1s1
+    span:
+    - body
+    - 51992
+    - 52563
+  label: 論體盛絕孕治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d62.h1s1
+    span:
+    - body
+    - 52563
+    - 53187
+  label: 華太夫人餌術方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d63.h1s1
+    span:
+    - body
+    - 53187
+    - 53680
+  label: 陸子堅調攝方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d64.h1s1
+    span:
+    - body
+    - 53680
+    - 54298
+  label: 與黃我兼世兄書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d65.h1s1
+    span:
+    - body
+    - 54298
+    - 54985
+  label: 辨黃鴻軒臂生癰癤之證並治驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d66.h1s1
+    span:
+    - body
+    - 54985
+    - 56224
+  label: 論士大夫喜服種子壯陽熱藥之誤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d67.h1s1
+    span:
+    - body
+    - 56224
+    - 57454
+  label: 論治傷寒藥中宜用人參之法以解世俗之惑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep012_jc_000-d68.h1s1
+    span:
+    - body
+    - 57454
+    - 58704
+  label: 詳論趙三公郎令室傷寒危症始末並傳誨門人
+  type: section
+  level: 1
+hash: sha256:baea0441299da549474b3eac96e6a32f462754aa6b5bffdcbaa91c594f4d875d
