@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep012_000.yaml, hash: 'sha256:6e422da21861053f4b4f5e3fa04f3cfe44bae2ca7ec18ed4d2ac45a480205c61'}
+  - {seq: 0, filename: KR3ep012_000.yaml, hash: 'sha256:20a05761fde1546766e54bf156e796604ed5a5aee8c0495951f507bf748bacd0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep012_000.markers.yaml, hash: 'sha256:f8278b2db0d76df254fbb2b85302327e6367f8f6308433a49a365e7c10b11ab0'}
+  - {seq: 0, role: markers, filename: assets/KR3ep012_000.markers.yaml, hash: 'sha256:7728b5a9091a8ca775cab589fd32956dcf22b188b3125aba49d307c808e80f34'}
 table_of_contents:
 - ref:
     seq: 0
@@ -691,7 +691,4 @@ table_of_contents:
   label: 詳論趙三公郎令室傷寒危症始末並傳誨門人
   type: section
   level: 1
-hash: sha256:36937f5a2681bf577d7d6aea1126befc27ad99de3f3ecc07f3dc64a3590cabe7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:07a34d7b154dbee3a15358350cde8001fc3dfd366a37141a472d1cc06b30f5bf
