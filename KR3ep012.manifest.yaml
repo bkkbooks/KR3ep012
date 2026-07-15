@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep012/v1
 canonical_location: https://kanripo.org/bkk/KR3ep012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寓意草
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep012_000.yaml, hash: 'sha256:20a05761fde1546766e54bf156e796604ed5a5aee8c0495951f507bf748bacd0'}
+  - {seq: 0, filename: KR3ep012_000.yaml, hash: 'sha256:43fe40f48f8e489ad1e9dd6709fa46d2b0aad4d71ec451552fd451d5df2b9999'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep012_000.markers.yaml, hash: 'sha256:7728b5a9091a8ca775cab589fd32956dcf22b188b3125aba49d307c808e80f34'}
+  - {seq: 0, role: markers, filename: assets/KR3ep012_000.markers.yaml, hash: 'sha256:11ea6aa3ceac729704d93af964a2182a99a7e483d0defa4a66803bcb1a33bc24'}
 table_of_contents:
 - ref:
     seq: 0
@@ -691,4 +691,7 @@ table_of_contents:
   label: 詳論趙三公郎令室傷寒危症始末並傳誨門人
   type: section
   level: 1
-hash: sha256:07a34d7b154dbee3a15358350cde8001fc3dfd366a37141a472d1cc06b30f5bf
+hash: sha256:87471580d5f29d7356a4578820f64c4dfa39c3452fd1d2b01827f128b6efcd39
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
